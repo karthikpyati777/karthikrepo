@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 15th file creted from git client
+=======
+15th file is created from repository
+>>>>>>> fd80015d9d02bf1c16fa918cec628d669babfedd
